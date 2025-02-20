@@ -4,3 +4,10 @@ Search(IDS) and a heuristic search strategy, i.e. A* Search with graph search to
 puzzle problem using Manhattan distance as the heuristic. Your program should use the 
 board configuration below as the goal state and lets the user input the initial/start board 
 configuration.
+
+Groupmates:
+ Dionisio, Ryan Kim
+ Garcia, Jhon Carl Angelo
+ Muncal, Aragorn
+ Tolosa, Noli Joseph
+ Vergara, Joshua
