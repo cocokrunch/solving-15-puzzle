@@ -6,8 +6,8 @@ board configuration below as the goal state and lets the user input the initial/
 configuration.
 
 Groupmates:
- Dionisio, Ryan Kim
- Garcia, Jhon Carl Angelo
- Muncal, Aragorn
- Tolosa, Noli Joseph
- Vergara, Joshua
+Ryan Kim Dionisio
+Jhon Carl Angelo Garcia
+Aragorn Muncal
+Noli Joseph Tolosa
+Joshua Vergara
